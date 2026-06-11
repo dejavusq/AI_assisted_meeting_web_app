@@ -39,7 +39,11 @@ AI-powered meeting assistant — real-time transcription, smart summaries, task 
 
 ```bash
 git clone https://github.com/dejavusq/AI_assisted_meeting_web_app.git
+<<<<<<< HEAD
 cd AI_assisted_meeting_web_app
+=======
+cd ai-meeting-assistant
+>>>>>>> 7c90d262973f9a71c12be2871b0ee6ab8eeda225
 ```
 
 ### 2. Open the app
@@ -72,8 +76,13 @@ Go to **Settings** in the sidebar to configure:
 
 ```
 .
+<<<<<<< HEAD
 ├── meetingPro_dejavu_v1.html           # Main application (single-page)
 ├── fonts/                              # Local font files
+=======
+├── meetingPro_dejavu_v1.html  # Main application (single-page)
+├── fonts/                                # Local font files
+>>>>>>> 7c90d262973f9a71c12be2871b0ee6ab8eeda225
 │   ├── NotoSansSC-VariableFont_wght.ttf
 │   ├── NotoSerifSC-VariableFont_wght.ttf
 │   ├── DMMono-Regular.ttf
