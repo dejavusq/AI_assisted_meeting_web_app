@@ -1,0 +1,1 @@
+AI-powered meeting assistant — real-time speech-to-text, smart summaries, task extraction, and glossary management in a single-page app. No frameworks, no server, full privacy. Supports OpenAI, Claude, DeepSeek and Tencent Cloud ASR.
