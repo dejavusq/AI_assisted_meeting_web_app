@@ -1,4 +1,4 @@
-# deja vu Meeting Pro
+# deja vu, Meeting Pro
 
 AI-powered meeting assistant — real-time transcription, smart summaries, task extraction, and glossary management, all in one page.
 
